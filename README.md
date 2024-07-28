@@ -1,1 +1,1 @@
-# Autoencoder
+This code trains an autoencoder neural network to compress input data into a lower-dimensional representation and then reconstruct it back to its original form. It also trains a second neural network on the compressed data to further process and predict the output.
